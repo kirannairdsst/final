@@ -1,0 +1,85 @@
+html {
+	font-family: verdana;
+	padding: 0;
+	margin: 0;
+}
+.img-header {
+	text-align: center;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+.img-banner {
+	width: auto;
+	height: 250px;
+}
+.centered-container {
+	position: absolute;
+	left: 44%;
+}
+.intro-title {
+	text-align: center;
+}
+.intro-paragraph-content {
+	text-align: center;
+	color: gray;
+}
+.default-button {
+	border-radius: 10px;
+	background-color: black;
+	color: white;
+	font-size: 30px;
+	padding: 16px;
+}
+.default-button:hover {
+	background-color: white;
+	color: black;
+}
+.centered-right {
+	position: absolute;
+	right: 40%;
+}
+.speech {
+	position: relative;
+}
+.character {
+	display: inline-block;
+	display: block;
+}
+.forced-middle {
+	position: absolute;
+	top: 50%;
+	left: 44%;
+}
+.offscreen-left {
+	position: absolute; 
+	right: 120%;
+}
+.morty-resize {
+	height: 250px;
+}
+.move-in {
+	right: 60%;
+	transition-property: right;
+	transition-duration: 4s;
+}
+.centered-button-right {
+	position: absolute;
+	right: 35%;
+	top: 50%;
+}
+.centered-button-left {
+	position: absolute;
+	left: 35%;
+	top: 50%;
+}
+li {
+	list-style: none;
+}
+.explosion {
+	height: 350px;
+}
+.top {
+	top: 50%;
+}
